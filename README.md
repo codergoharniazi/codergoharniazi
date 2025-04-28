@@ -8,7 +8,7 @@
 ---
 
 ### 📬 Contact Me
-- 📧 Email: [codergoharniazi@gmail.com](mailto:codergoharniazi@gmail.com)  
+- 📧 Email: [goharniazi.dev@gmail.com](mailto:codergoharniazi@gmail.com)  
 - 📱 Phone: 0336 1636361  
 
 ---
