@@ -1,62 +1,54 @@
-<h1 align="center">Hi 👋, I'm Goher Nawaz Niazi</h1>
-<h3 align="center">💻 Web Developer | 🎓 Computer Science Graduate | 🌱 Lifelong Learner</h3>
+<h1 align="center">Hi there, I'm Gohar Nawaz Niazi 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Creative+Problem+Solver;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📬 Contact Me
-- 📧 Email: [goharniazi.dev@gmail.com](mailto:codergoharniazi@gmail.com)  
-- 📱 Phone: 0336 1636361  
+## 🧠 About Me
+
+🎓 Graduate from **Gomal University Dera Ismail Khan** (CGPA: 3.78)  
+💼 Active member and leader in the **IT Society** during university  
+🚀 Passionate about development, UI/UX, and building impactful solutions  
+🌱 Continuously learning and growing in the tech space  
+📱 Contact: **0336-1636361** | ✉️ goharniazi.dev@gmail.com
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 Graduate in **Computer Science** from *Gomal University, D.I. Khan*
-- 💼 1 year of experience as a **Web Developer**
-- 🛠️ I love building responsive and scalable web apps
-- 🧠 Currently learning: **MySQL, MongoDB, Express.js, React.js**
+## 🛠️ Skills & Tools
 
----
-
-### 🚀 Tech Stack
-
-#### 👨‍💻 Front-End
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-#### 🧰 Back-End
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-
-#### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-#### 🛠 Tools & Other Skills
-- 🔧 Problem Solving
-- 👨‍👦‍👦 Leadership
-- ⚙️ Git & GitHub
-
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codergoharniazi&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=codergoharniazi&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,git,github,figma,vscode" />
 </p>
 
 ---
 
-### ✨ Let's Build Together!
-If you're looking for a passionate developer to collaborate on innovative web projects, I'm all ears. Let's connect and create something great!
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=goharniazi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goharniazi&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/goharniazi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:goharniazi.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/goharniazi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
 </p>
