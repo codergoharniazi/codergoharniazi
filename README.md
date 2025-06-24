@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-🎓 Graduate from **Gomal University Dera Ismail Khan** (CGPA: 3.78)  
+🎓 Graduate from **Gomal University Dera Ismail Khan** (CGPA: 3.80)  
 💼 Active member and leader in the **IT Society** during university  
 🚀 Passionate about development, UI/UX, and building impactful solutions  
 🌱 Continuously learning and growing in the tech space  
